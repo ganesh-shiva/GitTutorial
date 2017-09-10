@@ -9,5 +9,8 @@ public class HelloWorld {
 		System.out.println("--------------------");
 		System.out.println("Added this line from github editor");
 	}
-
+	
+	public void method() {
+		//write code here
+	}
 }

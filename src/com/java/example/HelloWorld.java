@@ -8,6 +8,7 @@ public class HelloWorld {
 		System.out.println("Ok then, bye.");
 		System.out.println("--------------------");
 		System.out.println("Added this line from github editor");
+		System.out.println("GitHub is cool");
 	}
 	
 	public void method() {
